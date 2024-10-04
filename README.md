@@ -5,7 +5,7 @@
 
 Code and data for paper [Unravelling Cross-Modality Knowledge Conflicts in Large Vision-Language Models]().
 
-![](figures\case.jpg)
+![](figures/case.jpg)
 
 <p align="center">
     [<a href="https://darthzhu.github.io/cross-modality-knowledge-conflict/">Website</a>] •
