@@ -1320,18 +1320,6 @@
     "multiple_choices_answer": "C"
   },
   {
-    "id": "eb76ba271bed8c97b358606ffaad9853",
-    "question": "What river falls over this waterfall?",
-    "image": "512px-Salto_Angel_Falls_Canaima_Bolivar_Venezuela3.jpg",
-    "multiple_choices": {
-      "I apologize, but it seems there's been a mistake. The gold answer provided is incorrect. Angel Falls is actually located on the Gauya River, not the Gauja River. Here is the corrected multiple-choice question in JSON format": "A",
-      "B": "Gauja river",
-      "C": "Amazon River",
-      "D": "Carrao River"
-    },
-    "multiple_choices_answer": "B"
-  },
-  {
     "id": "a3b58374a868fb7a9ebc893377084cc5",
     "question": "What was the name of the space shuttle in which this man went into space in 1961?",
     "image": "512px-Alan_Shepard_Apollo_14_(cropped).jpg",
@@ -11446,18 +11434,6 @@
       "D": "The mystery of edwin drood"
     },
     "multiple_choices_answer": "D"
-  },
-  {
-    "id": "e83626700c294354ba126db4bf355cca",
-    "question": "Which is the only novel by this writer to have a female narrator ?",
-    "image": "512px-NSRW_Charles_Dickens_(2).jpg",
-    "multiple_choices": {
-      "I apologize, but it seems there is an issue with the question and gold answer provided. The gold answer bleak house does not match the question, which asks about a novel by Charles Dickens with a female narrator.Here is a revised version of the question with a new gold answer and multiple-choice options": "A",
-      "B": "David Copperfield",
-      "C": "Bleak house",
-      "D": "Little DorritPlease let me know if you would like me to assist with anything else."
-    },
-    "multiple_choices_answer": "C"
   },
   {
     "id": "73fb66fa9352c7a3c9b3d77d1738aa9a",

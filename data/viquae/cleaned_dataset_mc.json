@@ -660,18 +660,6 @@
     "multiple_choices_answer": "C"
   },
   {
-    "id": "eb76ba271bed8c97b358606ffaad9853",
-    "question": "What river falls over this waterfall?",
-    "image": "512px-Salto_Angel_Falls_Canaima_Bolivar_Venezuela3.jpg",
-    "multiple_choices": {
-      "I apologize, but it seems there's been a mistake. The gold answer provided is incorrect. Angel Falls is actually located on the Gauya River, not the Gauja River. Here is the corrected multiple-choice question in JSON format": "A",
-      "B": "Gauja river",
-      "C": "Amazon River",
-      "D": "Carrao River"
-    },
-    "multiple_choices_answer": "B"
-  },
-  {
     "id": "8b1260b1e6073ad57217360cd8368489",
     "question": "she was married to which French King?",
     "image": "512px-Marie_Antoinette_in_1775.jpg",

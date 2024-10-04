@@ -852,18 +852,6 @@
     "multiple_choices_answer": "C"
   },
   {
-    "id": "eb76ba271bed8c97b358606ffaad9853",
-    "question": "What river falls over this waterfall?",
-    "image": "512px-Salto_Angel_Falls_Canaima_Bolivar_Venezuela3.jpg",
-    "multiple_choices": {
-      "I apologize, but it seems there's been a mistake. The gold answer provided is incorrect. Angel Falls is actually located on the Gauya River, not the Gauja River. Here is the corrected multiple-choice question in JSON format": "A",
-      "B": "Gauja river",
-      "C": "Amazon River",
-      "D": "Carrao River"
-    },
-    "multiple_choices_answer": "B"
-  },
-  {
     "id": "24e2d6502084a401a99ad16be675f483",
     "question": "How many symphonies did he complete?",
     "image": "512px-Sibelius_at_the_piano.jpg",
