@@ -1,0 +1,4 @@
+qa_prompt = """You are an expert at question answering. Given the question, please output the answer. No explanation and further question.""" # Mind that you have to give an answer, do not reject answering the question.
+qa_context_prompt = """You are an expert at question answering. Given the question and the context of the question, please output the answer. Please provide a concise response, no explanation and further question."""
+qa_image_prompt = """You are an expert at question answering. Given the question and the context image of the question, please output the answer. Please provide a concise response, no explanation and further question."""
+qa_blend_prompt = """You are an expert at question answering. Given the question, the context of the question and the context image of the question, please output the answer. Please provide a concise response, no explanation and further question."""

@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "infoseek_val_00000254",
+    "entity": "Preobrazhensky Metro Bridge",
+    "question": "what has this building crossed over?",
+    "image": "oven_04955043.jpg",
+    "multiple_choices": {
+      "A": "Moscow River",
+      "B": "Volga River",
+      "C": "Ob River",
+      "D": "Yauza"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00000256",
+    "entity": "Albert Bridge, London",
+    "question": "What is the location of this bridge?",
+    "image": "oven_04957629.jpg",
+    "multiple_choices": {
+      "A": "Battersea",
+      "B": "Westminster",
+      "C": "London Bridge",
+      "D": "Tower Bridge"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00001135",
+    "entity": "Lloyd's building",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04955429.jpg",
+    "multiple_choices": {
+      "A": "London",
+      "B": "City of london",
+      "C": "Manchester",
+      "D": "Birmingham"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00001433",
+    "entity": "Lloyd's building",
+    "question": "On what date did this building officially open?",
+    "image": "oven_04955446.jpg",
+    "multiple_choices": {
+      "A": "1985",
+      "B": "1987 01 01",
+      "C": "1986 11 18",
+      "D": "1988 12 31"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00002221",
+    "entity": "Hever Castle",
+    "question": "Which historic county does this building belong to?",
+    "image": "oven_04951118.jpg",
+    "multiple_choices": {
+      "A": "Kent",
+      "B": "Surrey",
+      "C": "Essex",
+      "D": "Hertfordshire"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00002443",
+    "entity": "Juscelino Kubitschek bridge",
+    "question": "In which year did this bridge officially open?",
+    "image": "oven_04956858.jpg",
+    "multiple_choices": {
+      "A": "1999",
+      "B": "2002",
+      "C": "2005",
+      "D": "2008"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00002720",
+    "entity": "Amrum Lighthouse",
+    "question": "What country does this building belong to?",
+    "image": "oven_04957683.jpg",
+    "multiple_choices": {
+      "A": "Denmark",
+      "B": "France",
+      "C": "Germany",
+      "D": "Netherlands"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00003600",
+    "entity": "George Washington Bridge",
+    "question": "On what date did this bridge officially open?",
+    "image": "oven_04954128.jpg",
+    "multiple_choices": {
+      "A": "1931 10 24",
+      "B": "1925 01 01",
+      "C": "1945 06 06",
+      "D": "1960 07 07"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00004485",
+    "entity": "Dunvegan Castle",
+    "question": "Which body of water is this building located in or next to?",
+    "image": "oven_04952776.jpg",
+    "multiple_choices": {
+      "A": "Loch Ness",
+      "B": "The Atlantic Ocean",
+      "C": "Loch dunvegan",
+      "D": "The North Sea"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00004588",
+    "entity": "Moszna Castle",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04951165.jpg",
+    "multiple_choices": {
+      "A": "Krakow",
+      "B": "Warsaw",
+      "C": "Moszna",
+      "D": "Gdansk"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00004895",
+    "entity": "Pembroke Castle",
+    "question": "Who found this building?",
+    "image": "oven_04954530.jpg",
+    "multiple_choices": {
+      "A": "William the Conqueror",
+      "B": "King Edward I",
+      "C": "King Henry VIII",
+      "D": "Roger de montgomerie, 1st earl of shrewsbury"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00005308",
+    "entity": "Conwy Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_04954008.jpg",
+    "multiple_choices": {
+      "A": "Llywelyn the Great",
+      "B": "James of saint george",
+      "C": "Edward I",
+      "D": "Owain Glyndŵr"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00005474",
+    "entity": "Juscelino Kubitschek bridge",
+    "question": "What country does this bridge belong to?",
+    "image": "oven_04956854.jpg",
+    "multiple_choices": {
+      "A": "Brazil",
+      "B": "Chile",
+      "C": "Argentina",
+      "D": "Uruguay"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00005765",
+    "entity": "Kailashnath Mahadev Statue",
+    "question": "What country does this building belong to?",
+    "image": "oven_04957462.jpg",
+    "multiple_choices": {
+      "A": "Nepal",
+      "B": "China",
+      "C": "India",
+      "D": "Bhutan"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00005888",
+    "entity": "Split Rock Lighthouse",
+    "question": "Which protected area is this building usually located in?",
+    "image": "oven_04955733.jpg",
+    "multiple_choices": {
+      "A": "Split rock lighthouse state park",
+      "B": "Minnesota State Park",
+      "C": "Lake Superior National Park",
+      "D": "Superior State Forest"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00006025",
+    "entity": "Conwy Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_04953984.jpg",
+    "multiple_choices": {
+      "A": "Edward I",
+      "B": "Owain Glyndŵr",
+      "C": "James of saint george",
+      "D": "Llywelyn the Great"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00006233",
+    "entity": "Bezděz Castle",
+    "question": "Who found this building?",
+    "image": "oven_04956650.jpg",
+    "multiple_choices": {
+      "A": "The Emperor of the Holy Roman Empire",
+      "B": "Rudolf II of Bohemia",
+      "C": "Charles IV of Bohemia",
+      "D": "Ottokar ii of bohemia"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00007954",
+    "entity": "Burrowing owl",
+    "question": "What is the conservation status of this bird? (The status is assigned by the international union for conservation of nature. Choose one among Endangered,Least Concern,Critically Endangered,extinct species,extinct in the wild,Vulnerable,Near Threatened,Data Deficient)",
+    "image": "oven_04970095.jpg",
+    "multiple_choices": {
+      "A": "Critically Endangered",
+      "B": "Extinct in the wild",
+      "C": "Least concern",
+      "D": "Vulnerable"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00008875",
+    "entity": "Feraklos Castle",
+    "question": "What is the location of this building?",
+    "image": "oven_04953560.jpg",
+    "multiple_choices": {
+      "A": "Greece",
+      "B": "Italy",
+      "C": "Charaki",
+      "D": "Spain"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00009071",
+    "entity": "Chojnik Castle",
+    "question": "What is the architectural style of this building?",
+    "image": "oven_04952320.jpg",
+    "multiple_choices": {
+      "A": "Romanesque architecture",
+      "B": "Renaissance architecture",
+      "C": "Gothic architecture",
+      "D": "Baroque architecture"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00009156",
+    "entity": "Pyatnytska Church (Chernihiv)",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04957137.jpg",
+    "multiple_choices": {
+      "A": "Ukraine",
+      "B": "Kharkiv",
+      "C": "Kyiv",
+      "D": "Chernihiv"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00009427",
+    "entity": "Hever Castle",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04951115.jpg",
+    "multiple_choices": {
+      "A": "Kent",
+      "B": "Surrey",
+      "C": "London",
+      "D": "Hever"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00009847",
+    "entity": "Albert Bridge, London",
+    "question": "what has this bridge crossed over?",
+    "image": "oven_04957634.jpg",
+    "multiple_choices": {
+      "A": "River thames",
+      "B": "The River Seine",
+      "C": "The River Danube",
+      "D": "The Amazon River"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00010273",
+    "entity": "Chojnik Castle",
+    "question": "Who is the owner of this building?",
+    "image": "oven_04952320.jpg",
+    "multiple_choices": {
+      "A": "House of schaffgotsch",
+      "B": "The Roman Empire",
+      "C": "The German Kingdom",
+      "D": "The Polish Republic"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00010742",
+    "entity": "Inveraray Castle",
+    "question": "What is the architectural style of this place?",
+    "image": "oven_04958530.jpg",
+    "multiple_choices": {
+      "A": "Romanesque Revival",
+      "B": "Gothic revival",
+      "C": "Art Deco",
+      "D": "Victorian Gothic"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00010825",
+    "entity": "Reculver",
+    "question": "Which historic county does this village belong to?",
+    "image": "oven_04953536.jpg",
+    "multiple_choices": {
+      "A": "Hampshire",
+      "B": "Surrey",
+      "C": "Essex",
+      "D": "Kent"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00011222",
+    "entity": "Lloyd's building",
+    "question": "Who occupies this building?",
+    "image": "oven_04955425.jpg",
+    "multiple_choices": {
+      "A": "The British Government",
+      "B": "The London Stock Exchange",
+      "C": "Lloyd's of london",
+      "D": "The Royal Bank of Scotland"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00012093",
+    "entity": "Pembroke Castle",
+    "question": "Which historic county does this building belong to?",
+    "image": "oven_04954535.jpg",
+    "multiple_choices": {
+      "A": "Wales",
+      "B": "England",
+      "C": "Pembrokeshire",
+      "D": "Scotland"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00012708",
+    "entity": "Amrum Lighthouse",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_04957674.jpg",
+    "multiple_choices": {
+      "A": "40",
+      "B": "41",
+      "C": "42",
+      "D": "43"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00013488",
+    "entity": "Rochester Castle",
+    "question": "who/what operates this building?",
+    "image": "oven_04951052.jpg",
+    "multiple_choices": {
+      "A": "The British Government",
+      "B": "English heritage",
+      "C": "The City of Rochester",
+      "D": "A Private Company"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00013513",
+    "entity": "Conwy Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_04954007.jpg",
+    "multiple_choices": {
+      "A": "Edward I of England",
+      "B": "James of saint george",
+      "C": "Llywelyn the Great",
+      "D": "Owain Glyndŵr"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00013679",
+    "entity": "Lloyd's building",
+    "question": "What is this building named after?",
+    "image": "oven_04955428.jpg",
+    "multiple_choices": {
+      "A": "The City Hall",
+      "B": "The London Bridge",
+      "C": "The British Museum",
+      "D": "Lloyd's of london"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00013812",
+    "entity": "Conwy Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_04953981.jpg",
+    "multiple_choices": {
+      "A": "Edward I",
+      "B": "Owain Glyndŵr",
+      "C": "Llywelyn the Great",
+      "D": "James of saint george"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00013866",
+    "entity": "Albert Bridge, London",
+    "question": "How wide is the bridge in the image? answer in metre",
+    "image": "oven_04957630.jpg",
+    "multiple_choices": {
+      "A": "The bridge's width is not visible in the image, so it's impossible to determine.",
+      "B": "The bridge is only a few meters wide, making it a small pedestrian crossing.",
+      "C": "The bridge is much wider than it is long, so it's likely to be over 100 meters wide.",
+      "D": "12.5"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00014039",
+    "entity": "Moszna Castle",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04951185.jpg",
+    "multiple_choices": {
+      "A": "Poland",
+      "B": "Europe",
+      "C": "Moszna",
+      "D": "Germany"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00014161",
+    "entity": "Pyatnytska Church (Chernihiv)",
+    "question": "In which year was this building first mentioned in writing?",
+    "image": "oven_04957154.jpg",
+    "multiple_choices": {
+      "A": "1670",
+      "B": "1650",
+      "C": "1700",
+      "D": "1720"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00015242",
+    "entity": "Pembroke Castle",
+    "question": "Which significant event was held in this building?",
+    "image": "oven_04954541.jpg",
+    "multiple_choices": {
+      "A": "The construction of the castle",
+      "B": "Reconstruction",
+      "C": "The Battle of Pembroke",
+      "D": "The coronation of a king"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00015672",
+    "entity": "George Washington Bridge",
+    "question": "what has this bridge crossed over?",
+    "image": "oven_04954122.jpg",
+    "multiple_choices": {
+      "A": "The Delaware River",
+      "B": "The Mississippi River",
+      "C": "Hudson river",
+      "D": "The Rio Grande"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00015756",
+    "entity": "Preobrazhensky Metro Bridge",
+    "question": "what has this building crossed over?",
+    "image": "oven_04955033.jpg",
+    "multiple_choices": {
+      "A": "Moscow River",
+      "B": "Moscow Bay",
+      "C": "Yauza",
+      "D": "Preobrazhensky Lake"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00015952",
+    "entity": "George Washington Bridge",
+    "question": "What is the height of this bridge in metre?",
+    "image": "oven_04954125.jpg",
+    "multiple_choices": {
+      "A": "120",
+      "B": "184",
+      "C": "220",
+      "D": "280"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00017340",
+    "entity": "Albert Bridge, London",
+    "question": "How wide is the bridge in the image? answer in metre",
+    "image": "oven_04957619.jpg",
+    "multiple_choices": {
+      "A": "10.5",
+      "B": "15.2",
+      "C": "12.5",
+      "D": "8.1"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00017424",
+    "entity": "Nuremberg Castle",
+    "question": "What is the height of this building in terms of metre above sea level?",
+    "image": "oven_04951003.jpg",
+    "multiple_choices": {
+      "A": "334",
+      "B": "320",
+      "C": "348",
+      "D": "362"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00017446",
+    "entity": "Selfridges Building, Birmingham",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_04957732.jpg",
+    "multiple_choices": {
+      "A": "London",
+      "B": "Manchester",
+      "C": "Birmingham",
+      "D": "Leeds"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00017710",
+    "entity": "Space Needle",
+    "question": "How many elevators does this have?",
+    "image": "oven_04955614.jpg",
+    "multiple_choices": {
+      "A": "The Space Needle has 4 elevators",
+      "B": "The Space Needle has 2 elevators",
+      "C": "The Space Needle has 1 elevator",
+      "D": "3"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00017762",
+    "entity": "Sighișoara Clock Tower",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_04955154.jpg",
+    "multiple_choices": {
+      "A": "30",
+      "B": "100",
+      "C": "80",
+      "D": "64"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00018013",
+    "entity": "Inveraray Castle",
+    "question": "What is the location of this place?",
+    "image": "oven_04958524.jpg",
+    "multiple_choices": {
+      "A": "Inveraray",
+      "B": "Glasgow",
+      "C": "Edinburgh",
+      "D": "Aberdeen"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00018028",
+    "entity": "Juscelino Kubitschek bridge",
+    "question": "What country does this bridge belong to?",
+    "image": "oven_04956852.jpg",
+    "multiple_choices": {
+      "A": "Brazil",
+      "B": "Argentina",
+      "C": "Chile",
+      "D": "Peru"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00018040",
+    "entity": "Pembroke Castle",
+    "question": "Which historic county does this building belong to?",
+    "image": "oven_04954533.jpg",
+    "multiple_choices": {
+      "A": "Wales",
+      "B": "Scotland",
+      "C": "England",
+      "D": "Pembrokeshire"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00018114",
+    "entity": "Space Needle",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_04955617.jpg",
+    "multiple_choices": {
+      "A": "150",
+      "B": "250",
+      "C": "220",
+      "D": "184"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00018411",
+    "entity": "Burrowing owl",
+    "question": "What is the conservation status of this bird? (The status is assigned by the international union for conservation of nature. Choose one among Endangered,Least Concern,Critically Endangered,extinct species,extinct in the wild,Vulnerable,Near Threatened,Data Deficient)",
+    "image": "oven_04970104.jpg",
+    "multiple_choices": {
+      "A": "Least concern",
+      "B": "Extinct in the wild",
+      "C": "Near Threatened",
+      "D": "Critically Endangered"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00018535",
+    "entity": "Space Needle",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_04955591.jpg",
+    "multiple_choices": {
+      "A": "184",
+      "B": "180",
+      "C": "190",
+      "D": "200"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00018720",
+    "entity": "European hedgehog",
+    "question": "What is the highest observed lifespan of this animal?",
+    "image": "oven_05034788.jpg",
+    "multiple_choices": {
+      "A": "5 years",
+      "B": "20 years",
+      "C": "11.7",
+      "D": "30 years"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00018797",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "In which year did this building come into service?",
+    "image": "oven_05019931.jpg",
+    "multiple_choices": {
+      "A": "1740",
+      "B": "1772",
+      "C": "1800",
+      "D": "1850"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00020212",
+    "entity": "Blackfriars Bridge",
+    "question": "Who designed this bridge?",
+    "image": "oven_05015063.jpg",
+    "multiple_choices": {
+      "A": "Richard Brunel",
+      "B": "Thomas Telford",
+      "C": "Isambard Kingdom Brunel",
+      "D": "Joseph cubitt"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00020277",
+    "entity": "Australian wood duck",
+    "question": "What is the litter size of this bird?",
+    "image": "oven_05038851.jpg",
+    "multiple_choices": {
+      "A": "The litter size of Australian wood duck is 2-6 eggs",
+      "B": "5.1",
+      "C": "The Australian wood duck does not lay eggs, it gives birth to ducklings",
+      "D": "9.4"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00020357",
+    "entity": "Menai Suspension Bridge",
+    "question": "what has this building crossed over?",
+    "image": "oven_05026564.jpg",
+    "multiple_choices": {
+      "A": "The Irish Sea",
+      "B": "Menai strait",
+      "C": "The English Channel",
+      "D": "The Atlantic Ocean"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00020770",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05019946.jpg",
+    "multiple_choices": {
+      "A": "Sintra",
+      "B": "Ericeira",
+      "C": "Lisbon",
+      "D": "Colares"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00021110",
+    "entity": "Viviparous lizard",
+    "question": "What is the length in millimetre is the animal in the image?",
+    "image": "oven_05033535.jpg",
+    "multiple_choices": {
+      "A": "50",
+      "B": "62",
+      "C": "75",
+      "D": "90"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00021312",
+    "entity": "Mount Jerome Cemetery and Crematorium",
+    "question": "Which city or region does this facility locate in?",
+    "image": "oven_05026313.jpg",
+    "multiple_choices": {
+      "A": "London",
+      "B": "Dublin",
+      "C": "Manchester",
+      "D": "Birmingham"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00021595",
+    "entity": "Main building of Moscow State University",
+    "question": "Who occupies this building?",
+    "image": "oven_05018074.jpg",
+    "multiple_choices": {
+      "A": "Moscow state university",
+      "B": "Russian Government",
+      "C": "Moscow City Hall",
+      "D": "Soviet Union"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00021646",
+    "entity": "Confederation Bridge",
+    "question": "What country does this island belong to?",
+    "image": "oven_05018980.jpg",
+    "multiple_choices": {
+      "A": "Prince Edward Island belongs to the United States",
+      "B": "The United Kingdom",
+      "C": "Canada",
+      "D": "Australia"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00021678",
+    "entity": "Two-striped garter snake",
+    "question": "What is the closest upper taxonomy of this animal?",
+    "image": "oven_05029453.jpg",
+    "multiple_choices": {
+      "A": "King snake",
+      "B": "Rattlesnake",
+      "C": "Garter snake",
+      "D": "Coral snake"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00021713",
+    "entity": "Meycauayan Church",
+    "question": "Which diocese does this building belong to?",
+    "image": "oven_05024593.jpg",
+    "multiple_choices": {
+      "A": "Diocese of Antipolo",
+      "B": "Diocese of Cubao",
+      "C": "Diocese of malolos",
+      "D": "Diocese of Pasig"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00022606",
+    "entity": "Hoffmann's two-toed sloth",
+    "question": "What is the closest upper taxonomy of this animal?",
+    "image": "oven_05041335.jpg",
+    "multiple_choices": {
+      "A": "Choloepus",
+      "B": "Marsupial",
+      "C": "Primate",
+      "D": "Rodent"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00023544",
+    "entity": "European hedgehog",
+    "question": "What is the highest observed lifespan of this animal?",
+    "image": "oven_05034755.jpg",
+    "multiple_choices": {
+      "A": "5 years",
+      "B": "8 years",
+      "C": "20 years",
+      "D": "11.7"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00024696",
+    "entity": "Menai Suspension Bridge",
+    "question": "On what date did this building officially open?",
+    "image": "oven_05026572.jpg",
+    "multiple_choices": {
+      "A": "1826 1 1",
+      "B": "1826 1 30",
+      "C": "1827 1 1",
+      "D": "1825 1 1"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00024865",
+    "entity": "Menai Suspension Bridge",
+    "question": "Who are the structure engineers of this building?",
+    "image": "oven_05026560.jpg",
+    "multiple_choices": {
+      "A": "Thomas telford",
+      "B": "Isambard Kingdom Brunel",
+      "C": "Joseph Bazalgette",
+      "D": "Michael Faraday"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00026089",
+    "entity": "Caprese salad",
+    "question": "What is this food named after?",
+    "image": "oven_05027699.jpg",
+    "multiple_choices": {
+      "A": "Capri",
+      "B": "Italy",
+      "C": "Rome",
+      "D": "Florence"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00026425",
+    "entity": "Mexican free-tailed bat",
+    "question": "What is the closest upper taxonomy of this animal?",
+    "image": "oven_05041879.jpg",
+    "multiple_choices": {
+      "A": "Tadarida",
+      "B": "Canis",
+      "C": "Felis",
+      "D": "Ursus"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00026917",
+    "entity": "High Level Bridge (Edmonton)",
+    "question": "what has this bridge crossed over?",
+    "image": "oven_05024575.jpg",
+    "multiple_choices": {
+      "A": "The Bow River",
+      "B": "The North Saskatchewan River",
+      "C": "North saskatchewan river",
+      "D": "The Athabasca River"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00027460",
+    "entity": "Allianz Arena",
+    "question": "Who occupies this building?",
+    "image": "oven_05018304.jpg",
+    "multiple_choices": {
+      "A": "Borussia Dortmund",
+      "B": "Fc bayern munich",
+      "C": "Schalke 04",
+      "D": "Hertha Berlin"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00028331",
+    "entity": "Main building of Moscow State University",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_05018087.jpg",
+    "multiple_choices": {
+      "A": "230",
+      "B": "260",
+      "C": "250",
+      "D": "240"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00031305",
+    "entity": "Będzin Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_05013085.jpg",
+    "multiple_choices": {
+      "A": "The King of Poland",
+      "B": "Casimir iii the great",
+      "C": "The Duke of Silesia",
+      "D": "The Bishop of Krakow"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00031665",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "Which (geo)physical feature is the building located in or on?",
+    "image": "oven_05019958.jpg",
+    "multiple_choices": {
+      "A": "Cabo da roca",
+      "B": "The Atlantic Ocean",
+      "C": "A mountain",
+      "D": "A cliff"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00031685",
+    "entity": "New Brighton Lighthouse",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05014716.jpg",
+    "multiple_choices": {
+      "A": "Manchester",
+      "B": "Liverpool",
+      "C": "Wirral",
+      "D": "Birmingham"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00031767",
+    "entity": "Allianz Arena",
+    "question": "What is the maximum capacity of this building?",
+    "image": "oven_05018304.jpg",
+    "multiple_choices": {
+      "A": "70000",
+      "B": "90000",
+      "C": "85000",
+      "D": "95000"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00032152",
+    "entity": "Belogradchik Rocks",
+    "question": "What country does this building belong to?",
+    "image": "oven_05013319.jpg",
+    "multiple_choices": {
+      "A": "Romania",
+      "B": "Bulgaria",
+      "C": "Slovenia",
+      "D": "Croatia"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00032293",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which road, railway or canal does this bridge carry?",
+    "image": "oven_05013503.jpg",
+    "multiple_choices": {
+      "A": "railway",
+      "B": "Road",
+      "C": "canal",
+      "D": "highway"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00032321",
+    "entity": "Umeda Sky Building",
+    "question": "In which year did this building officially open?",
+    "image": "oven_05011282.jpg",
+    "multiple_choices": {
+      "A": "1992",
+      "B": "1993",
+      "C": "1994",
+      "D": "1995"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00032515",
+    "entity": "Vasco da Gama Bridge",
+    "question": "In which year did this bridge officially open?",
+    "image": "oven_05013511.jpg",
+    "multiple_choices": {
+      "A": "1995",
+      "B": "2001",
+      "C": "1998",
+      "D": "2005"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00032517",
+    "entity": "Vanšu Bridge",
+    "question": "In which year did this bridge officially open?",
+    "image": "oven_05019140.jpg",
+    "multiple_choices": {
+      "A": "1981",
+      "B": "1980",
+      "C": "1985",
+      "D": "1990"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00032826",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05019947.jpg",
+    "multiple_choices": {
+      "A": "Colares",
+      "B": "Lisbon",
+      "C": "Porto",
+      "D": "Sintra"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00033468",
+    "entity": "Menai Suspension Bridge",
+    "question": "How long in metre is the longest span of this building?",
+    "image": "oven_05026563.jpg",
+    "multiple_choices": {
+      "A": "150",
+      "B": "200",
+      "C": "176",
+      "D": "250"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00033543",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "Which (geo)physical feature is the building located in or on?",
+    "image": "oven_05019943.jpg",
+    "multiple_choices": {
+      "A": "The Atlantic Ocean",
+      "B": "Cabo da roca",
+      "C": "A cliff",
+      "D": "A mountain"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00034355",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "What is the height (in metre) of the lamp at this building?",
+    "image": "oven_05019929.jpg",
+    "multiple_choices": {
+      "A": "The height of the lamp is 120 meters",
+      "B": "165",
+      "C": "The height of the lamp is 190 meters",
+      "D": "The height of the lamp is 250 meters"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00034628",
+    "entity": "Confederation Bridge",
+    "question": "How wide is the island in the image? answer in metre",
+    "image": "oven_05018964.jpg",
+    "multiple_choices": {
+      "A": "11",
+      "B": "The width of the island is not visible in the image, so it cannot be determined.",
+      "C": "The image does not show the island's width, so it's impossible to know.",
+      "D": "The bridge's width is 11 meters, not the island's width."
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00034727",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which city or region does this bridge locate in?",
+    "image": "oven_05013484.jpg",
+    "multiple_choices": {
+      "A": "Lisbon",
+      "B": "Algarve",
+      "C": "Porto",
+      "D": "Parque das nações"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00034734",
+    "entity": "Carew Castle",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05024966.jpg",
+    "multiple_choices": {
+      "A": "Carew",
+      "B": "Pembrokeshire",
+      "C": "Carmarthenshire",
+      "D": "Swansea"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00034921",
+    "entity": "Common box turtle",
+    "question": "What is the closest upper taxonomy of this animal?",
+    "image": "oven_05046217.jpg",
+    "multiple_choices": {
+      "A": "Reptile",
+      "B": "Mammal",
+      "C": "Box turtle",
+      "D": "Amphibian"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00036184",
+    "entity": "Marble Bridge",
+    "question": "Which city or region does this bridge locate in?",
+    "image": "oven_05024911.jpg",
+    "multiple_choices": {
+      "A": "Pushkin",
+      "B": "Moscow",
+      "C": "St. Petersburg",
+      "D": "Kiev"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00036275",
+    "entity": "Vasquez Rocks",
+    "question": "Which city or region does this park locate in?",
+    "image": "oven_05025403.jpg",
+    "multiple_choices": {
+      "A": "Arizona",
+      "B": "San Francisco",
+      "C": "Los angeles county",
+      "D": "New York City"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00036732",
+    "entity": "Hill of Crosses",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05014426.jpg",
+    "multiple_choices": {
+      "A": "Lithuania",
+      "B": "Šiauliai district municipality",
+      "C": "Kaunas",
+      "D": "Vilnius"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00036783",
+    "entity": "Vasco da Gama Bridge",
+    "question": "What is the height of this bridge in metre?",
+    "image": "oven_05013509.jpg",
+    "multiple_choices": {
+      "A": "120",
+      "B": "148",
+      "C": "180",
+      "D": "200"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00038463",
+    "entity": "Marble Bridge",
+    "question": "What country does this bridge belong to?",
+    "image": "oven_05024903.jpg",
+    "multiple_choices": {
+      "A": "China",
+      "B": "Japan",
+      "C": "Italy",
+      "D": "Russia"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00038958",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which road, railway or canal does this bridge carry?",
+    "image": "oven_05013497.jpg",
+    "multiple_choices": {
+      "A": "This bridge carries a railway",
+      "B": "This bridge carries a highway",
+      "C": "This bridge is a canal",
+      "D": "Road"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00039414",
+    "entity": "Chinese mystery snail",
+    "question": "What is the closest upper taxonomy of this animal?",
+    "image": "oven_05030336.jpg",
+    "multiple_choices": {
+      "A": "Gastropoda",
+      "B": "Mollusca",
+      "C": "Reptilia",
+      "D": "Bellamya"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00040293",
+    "entity": "Mount Jerome Cemetery and Crematorium",
+    "question": "Which historic county does this facility belong to?",
+    "image": "oven_05026313.jpg",
+    "multiple_choices": {
+      "A": "Dublin City",
+      "B": "County dublin",
+      "C": "County Wicklow",
+      "D": "County Kildare"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00040584",
+    "entity": "Allianz Arena",
+    "question": "On what date did this building officially open?",
+    "image": "oven_05018318.jpg",
+    "multiple_choices": {
+      "A": "2005 5 30",
+      "B": "2004 1 1",
+      "C": "2007 12 31",
+      "D": "2010 6 15"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00041095",
+    "entity": "Allianz Arena",
+    "question": "What is the maximum capacity of this building?",
+    "image": "oven_05018347.jpg",
+    "multiple_choices": {
+      "A": "70000",
+      "B": "95000",
+      "C": "90000",
+      "D": "85000"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00041386",
+    "entity": "European hedgehog",
+    "question": "What is the highest observed lifespan of this animal?",
+    "image": "oven_05034762.jpg",
+    "multiple_choices": {
+      "A": "10 years",
+      "B": "5 years",
+      "C": "8 years",
+      "D": "11.7"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00041617",
+    "entity": "Allianz Arena",
+    "question": "which notable activity has been held at the building presented in the image?",
+    "image": "oven_05018338.jpg",
+    "multiple_choices": {
+      "A": "Opening ceremony of a football stadium",
+      "B": "Final match of the World Cup",
+      "C": "Start of manufacturing or construction",
+      "D": "Inauguration of a new shopping mall"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00044169",
+    "entity": "Confederation Bridge",
+    "question": "How long in metre is the longest span of this island?",
+    "image": "oven_05018977.jpg",
+    "multiple_choices": {
+      "A": "200",
+      "B": "300",
+      "C": "250",
+      "D": "350"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00044332",
+    "entity": "Nationals Park",
+    "question": "What is the height of the roof of this park in foot?",
+    "image": "oven_04944541.jpg",
+    "multiple_choices": {
+      "A": "120.00",
+      "B": "130.00",
+      "C": "140.00",
+      "D": "150.00"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00044699",
+    "entity": "Western conifer seed bug",
+    "question": "Which location has this insect invaded?",
+    "image": "oven_05037134.jpg",
+    "multiple_choices": {
+      "A": "Eastern Europe",
+      "B": "South America",
+      "C": "North America",
+      "D": "Ukraine"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00044806",
+    "entity": "Menai Suspension Bridge",
+    "question": "Who are the structure engineers of this building?",
+    "image": "oven_05026564.jpg",
+    "multiple_choices": {
+      "A": "Istvan Szabo",
+      "B": "Laszlo Nagy",
+      "C": "Gabor Fekete",
+      "D": "Thomas telford"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00046102",
+    "entity": "New Brighton Lighthouse",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_05014705.jpg",
+    "multiple_choices": {
+      "A": "20.5",
+      "B": "28.5",
+      "C": "35.8",
+      "D": "41.2"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00046998",
+    "entity": "Belogradchik Rocks",
+    "question": "What country does this building belong to?",
+    "image": "oven_05013301.jpg",
+    "multiple_choices": {
+      "A": "Romania",
+      "B": "Bulgaria",
+      "C": "Serbia",
+      "D": "Greece"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00049038",
+    "entity": "Nationals Park",
+    "question": "Which city or region does this park locate in?",
+    "image": "oven_04944526.jpg",
+    "multiple_choices": {
+      "A": "New York City",
+      "B": "Washington, d.c.",
+      "C": "Baltimore",
+      "D": "Philadelphia"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00050239",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which road, railway or canal does this bridge carry?",
+    "image": "oven_05013506.jpg",
+    "multiple_choices": {
+      "A": "railway",
+      "B": "Road",
+      "C": "canal",
+      "D": "highway"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00050413",
+    "entity": "Confederation Bridge",
+    "question": "Which city or region does this island locate in?",
+    "image": "oven_05018964.jpg",
+    "multiple_choices": {
+      "A": "Cape tormentine",
+      "B": "Prince Edward Island",
+      "C": "Nova Scotia",
+      "D": "New Brunswick"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00050878",
+    "entity": "Menai Suspension Bridge",
+    "question": "How long in metre is the longest span of this building?",
+    "image": "oven_05026584.jpg",
+    "multiple_choices": {
+      "A": "120",
+      "B": "240",
+      "C": "220",
+      "D": "176"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00050928",
+    "entity": "Wrigley Building",
+    "question": "What is the height of this building in metre?",
+    "image": "oven_05014021.jpg",
+    "multiple_choices": {
+      "A": "133.51",
+      "B": "120 meters",
+      "C": "150 meters",
+      "D": "160 meters"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00051074",
+    "entity": "Confederation Bridge",
+    "question": "How many spans does this bridge have?",
+    "image": "oven_05018962.jpg",
+    "multiple_choices": {
+      "A": "50",
+      "B": "100",
+      "C": "80",
+      "D": "63"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00051450",
+    "entity": "Bronbeek",
+    "question": "What country does this place belong to?",
+    "image": "oven_05019284.jpg",
+    "multiple_choices": {
+      "A": "Netherlands",
+      "B": "Germany",
+      "C": "France",
+      "D": "Belgium"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00051538",
+    "entity": "Będzin Castle",
+    "question": "Who commissioned this building?",
+    "image": "oven_05013040.jpg",
+    "multiple_choices": {
+      "A": "Bolesław I the Brave",
+      "B": "Sigismund I the Old",
+      "C": "Władysław II Jagiełło",
+      "D": "Casimir iii the great"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00051555",
+    "entity": "Dover Castle",
+    "question": "the building in the image participated in which conflict?",
+    "image": "oven_05015486.jpg",
+    "multiple_choices": {
+      "A": "First barons' war",
+      "B": "The Hundred Years' War",
+      "C": "The Crusades",
+      "D": "The English Civil War"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00051706",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "In which year did this building come into service?",
+    "image": "oven_05019956.jpg",
+    "multiple_choices": {
+      "A": "1780",
+      "B": "1760",
+      "C": "1772",
+      "D": "1790"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00052003",
+    "entity": "Allianz Arena",
+    "question": "Who is the sponsor of this building?",
+    "image": "oven_05018311.jpg",
+    "multiple_choices": {
+      "A": "Bayern Munich",
+      "B": "Allianz se",
+      "C": "Adidas",
+      "D": "Siemens"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00052501",
+    "entity": "Confederation Bridge",
+    "question": "Which road, railway or canal does this island carry?",
+    "image": "oven_05018973.jpg",
+    "multiple_choices": {
+      "A": "The New Brunswick Route 15",
+      "B": "The Trans-Canada Highway",
+      "C": "New brunswick route 16",
+      "D": "The Canadian National Railway"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00052857",
+    "entity": "Strecker's chorus frog",
+    "question": "Which place is this animal endemic to?",
+    "image": "oven_05037097.jpg",
+    "multiple_choices": {
+      "A": "Central America",
+      "B": "Europe",
+      "C": "South America",
+      "D": "United states of america"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00053019",
+    "entity": "Predjama Castle",
+    "question": "Who is the owner of this building?",
+    "image": "oven_05014473.jpg",
+    "multiple_choices": {
+      "A": "The King of Slovenia",
+      "B": "A local noble family",
+      "C": "Patriarchate of aquileia",
+      "D": "The Duke of Austria"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00053515",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which road, railway or canal does this bridge carry?",
+    "image": "oven_05013502.jpg",
+    "multiple_choices": {
+      "A": "Road",
+      "B": "This bridge carries a railway",
+      "C": "This bridge is a canal",
+      "D": "This bridge is a pedestrian path"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00054796",
+    "entity": "Menai Suspension Bridge",
+    "question": "Which historic county does this building belong to?",
+    "image": "oven_05026551.jpg",
+    "multiple_choices": {
+      "A": "Anglesey",
+      "B": "Gwynedd",
+      "C": "Conwy",
+      "D": "Caernarfon"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00055035",
+    "entity": "Blackneck garter snake",
+    "question": "What is the closest parent taxonomy of this animal?",
+    "image": "oven_05029971.jpg",
+    "multiple_choices": {
+      "A": "Copperhead",
+      "B": "Coral snake",
+      "C": "Rattlesnake",
+      "D": "Garter snake"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00056089",
+    "entity": "Conisbrough Castle",
+    "question": "who/what operates this building?",
+    "image": "oven_05018586.jpg",
+    "multiple_choices": {
+      "A": "The National Trust",
+      "B": "The British Army",
+      "C": "English heritage",
+      "D": "The Royal Family"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00056160",
+    "entity": "Mount Jerome Cemetery and Crematorium",
+    "question": "Which city or region does this facility locate in?",
+    "image": "oven_05026316.jpg",
+    "multiple_choices": {
+      "A": "Berlin",
+      "B": "London",
+      "C": "Paris",
+      "D": "Dublin"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00056453",
+    "entity": "New Brighton Lighthouse",
+    "question": "What is the location of this building?",
+    "image": "oven_05014711.jpg",
+    "multiple_choices": {
+      "A": "New York",
+      "B": "New Jersey",
+      "C": "Brighton Beach",
+      "D": "New brighton"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00056611",
+    "entity": "High Level Bridge (Edmonton)",
+    "question": "what has this bridge crossed over?",
+    "image": "oven_05024566.jpg",
+    "multiple_choices": {
+      "A": "The North Atlantic Ocean",
+      "B": "The Amazon Rainforest",
+      "C": "The Grand Canyon",
+      "D": "North saskatchewan river"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00056840",
+    "entity": "Berovo Lake",
+    "question": "What country does this building belong to?",
+    "image": "oven_05020669.jpg",
+    "multiple_choices": {
+      "A": "North macedonia",
+      "B": "Greece",
+      "C": "Albania",
+      "D": "Bulgaria"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00057232",
+    "entity": "Conisbrough Castle",
+    "question": "What country does this building belong to?",
+    "image": "oven_05018604.jpg",
+    "multiple_choices": {
+      "A": "England",
+      "B": "France",
+      "C": "Germany",
+      "D": "United kingdom"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00057396",
+    "entity": "Saint James's Church, Stockholm",
+    "question": "Which diocese does this building belong to?",
+    "image": "oven_05026059.jpg",
+    "multiple_choices": {
+      "A": "The Diocese of Uppsala",
+      "B": "Diocese of stockholm",
+      "C": "Diocese of Linköping",
+      "D": "Diocese of Lund"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00057495",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which city or region does this bridge locate in?",
+    "image": "oven_05013472.jpg",
+    "multiple_choices": {
+      "A": "Lisbon",
+      "B": "Porto",
+      "C": "Parque das nações",
+      "D": "Algarve"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00057610",
+    "entity": "Western conifer seed bug",
+    "question": "Which location has this insect invaded?",
+    "image": "oven_05037130.jpg",
+    "multiple_choices": {
+      "A": "Ukraine",
+      "B": "Europe",
+      "C": "North America",
+      "D": "Asia"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00058935",
+    "entity": "Niechorze Lighthouse",
+    "question": "Which body of water is this building located in or next to?",
+    "image": "oven_05013736.jpg",
+    "multiple_choices": {
+      "A": "Black Sea",
+      "B": "North Sea",
+      "C": "Baltic sea",
+      "D": "Mediterranean Sea"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00058994",
+    "entity": "Oklahoma City National Memorial",
+    "question": "What is the area in square metre occupied by this building?",
+    "image": "oven_05015237.jpg",
+    "multiple_choices": {
+      "A": "13000",
+      "B": "12000",
+      "C": "14000",
+      "D": "15000"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00059135",
+    "entity": "Niechorze Lighthouse",
+    "question": "What country does this building belong to?",
+    "image": "oven_05013728.jpg",
+    "multiple_choices": {
+      "A": "Poland",
+      "B": "Germany",
+      "C": "Denmark",
+      "D": "Sweden"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00059378",
+    "entity": "Conisbrough Castle",
+    "question": "Who is the founder of the building in the image?",
+    "image": "oven_05018606.jpg",
+    "multiple_choices": {
+      "A": "King Henry VIII",
+      "B": "William de warenne, 1st earl of surrey",
+      "C": "King Edward I",
+      "D": "William the Conqueror"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00060697",
+    "entity": "Niechorze Lighthouse",
+    "question": "How far in nautical mile can people see the light coming from this building?",
+    "image": "oven_05013717.jpg",
+    "multiple_choices": {
+      "A": "15",
+      "B": "25",
+      "C": "20",
+      "D": "30"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00060836",
+    "entity": "Nationals Park",
+    "question": "What is the height of the roof of this park in foot?",
+    "image": "oven_04944555.jpg",
+    "multiple_choices": {
+      "A": "130.00",
+      "B": "120.00",
+      "C": "140.00",
+      "D": "150.00"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00061262",
+    "entity": "Hyundai Tucson",
+    "question": "Who is the manufacturer of this vehicle?",
+    "image": "oven_05010548.jpg",
+    "multiple_choices": {
+      "A": "Kia Motors",
+      "B": "Hyundai motor company",
+      "C": "Volkswagen Group",
+      "D": "General Motors"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00061513",
+    "entity": "Vasco da Gama Bridge",
+    "question": "Which road, railway or canal does this bridge carry?",
+    "image": "oven_05013496.jpg",
+    "multiple_choices": {
+      "A": "railway",
+      "B": "highway",
+      "C": "canal",
+      "D": "Road"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00062007",
+    "entity": "Dominus Flevit Church",
+    "question": "What is this building dedicated to?",
+    "image": "oven_05021503.jpg",
+    "multiple_choices": {
+      "A": "The Holy Spirit",
+      "B": "The Virgin Mary",
+      "C": "Jesus",
+      "D": "St. Peter"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00062201",
+    "entity": "Neuenburg Castle (Freyburg)",
+    "question": "What country does this building belong to?",
+    "image": "oven_05012761.jpg",
+    "multiple_choices": {
+      "A": "Italy",
+      "B": "France",
+      "C": "Austria",
+      "D": "Germany"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00062808",
+    "entity": "Viviparous lizard",
+    "question": "How many gram does this animal weigh?",
+    "image": "oven_05033565.jpg",
+    "multiple_choices": {
+      "A": "3.14",
+      "B": "8.27",
+      "C": "5.61",
+      "D": "2.91"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00062922",
+    "entity": "Wrigley Building",
+    "question": "Which street is this building located at?",
+    "image": "oven_05014021.jpg",
+    "multiple_choices": {
+      "A": "The Chicago River",
+      "B": "Michigan avenue",
+      "C": "State Street",
+      "D": "Oak Street"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00063015",
+    "entity": "Snowy owl",
+    "question": "What is the closest parent taxonomy of this bird?",
+    "image": "oven_05044645.jpg",
+    "multiple_choices": {
+      "A": "Struthio",
+      "B": "Accipiter",
+      "C": "Bubo",
+      "D": "Corvus"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00063701",
+    "entity": "Menai Suspension Bridge",
+    "question": "what has this building crossed over?",
+    "image": "oven_05026561.jpg",
+    "multiple_choices": {
+      "A": "The Irish Sea",
+      "B": "The English Channel",
+      "C": "Menai strait",
+      "D": "The Thames River"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00064657",
+    "entity": "Berovo Lake",
+    "question": "What is the basin country to the building?",
+    "image": "oven_05020681.jpg",
+    "multiple_choices": {
+      "A": "North macedonia",
+      "B": "Greece",
+      "C": "Bulgaria",
+      "D": "Serbia"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00064938",
+    "entity": "Umeda Sky Building",
+    "question": "How many levels does this building have?",
+    "image": "oven_05011277.jpg",
+    "multiple_choices": {
+      "A": "40",
+      "B": "30",
+      "C": "20",
+      "D": "50"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00065630",
+    "entity": "Ford Field",
+    "question": "Who occupies this building?",
+    "image": "oven_05023195.jpg",
+    "multiple_choices": {
+      "A": "Detroit Tigers",
+      "B": "Detroit lions",
+      "C": "University of Michigan",
+      "D": "Ford Motor Company"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00066040",
+    "entity": "Hot and sour soup",
+    "question": "What is the country of origin of this food?",
+    "image": "oven_05027600.jpg",
+    "multiple_choices": {
+      "A": "Japan",
+      "B": "Thailand",
+      "C": "China",
+      "D": "Korea"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00066933",
+    "entity": "Main building of Moscow State University",
+    "question": "On what date did this building officially open?",
+    "image": "oven_05018056.jpg",
+    "multiple_choices": {
+      "A": "1940 1 1",
+      "B": "1953 9 1",
+      "C": "1960 3 3",
+      "D": "1970 6 6"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00066963",
+    "entity": "Vasco da Gama Bridge",
+    "question": "How many spans does this bridge have?",
+    "image": "oven_05013493.jpg",
+    "multiple_choices": {
+      "A": "81",
+      "B": "50",
+      "C": "20",
+      "D": "100"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00067063",
+    "entity": "Mount Jerome Cemetery and Crematorium",
+    "question": "Which historic county does this facility belong to?",
+    "image": "oven_05026337.jpg",
+    "multiple_choices": {
+      "A": "Dublin City",
+      "B": "Wicklow",
+      "C": "County dublin",
+      "D": "Meath"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00067391",
+    "entity": "Confederation Bridge",
+    "question": "What is the location of this island?",
+    "image": "oven_05018976.jpg",
+    "multiple_choices": {
+      "A": "Prince Edward Island",
+      "B": "Nova Scotia",
+      "C": "Borden-carleton",
+      "D": "Newfoundland and Labrador"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00067405",
+    "entity": "Wrigley Building",
+    "question": "How many levels does this building have?",
+    "image": "oven_05014011.jpg",
+    "multiple_choices": {
+      "A": "30",
+      "B": "The Wrigley Building is a 10-story building",
+      "C": "The Wrigley Building is a 20-story building",
+      "D": "The Wrigley Building is a 5-story building"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00067616",
+    "entity": "Josselin Castle",
+    "question": "Which city or region does this building locate in?",
+    "image": "oven_05020136.jpg",
+    "multiple_choices": {
+      "A": "Josselin",
+      "B": "Brittany",
+      "C": "France",
+      "D": "Loire Valley"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00068626",
+    "entity": "Marble Bridge",
+    "question": "What country does this bridge belong to?",
+    "image": "oven_05024898.jpg",
+    "multiple_choices": {
+      "A": "China",
+      "B": "Japan",
+      "C": "Russia",
+      "D": "Italy"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00068921",
+    "entity": "Allianz Arena",
+    "question": "Which street is this building located at?",
+    "image": "oven_05018311.jpg",
+    "multiple_choices": {
+      "A": "Werner-heisenberg-allee",
+      "B": "Franklin Street",
+      "C": "Main Street",
+      "D": "Olympic Avenue"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00069155",
+    "entity": "Baclayon Church",
+    "question": "Which diocese does this building belong to?",
+    "image": "oven_05024125.jpg",
+    "multiple_choices": {
+      "A": "Diocese of tagbilaran",
+      "B": "Diocese of Cebu",
+      "C": "Diocese of Bohol",
+      "D": "Diocese of Leyte"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00069387",
+    "entity": "Kamieniec Castle",
+    "question": "What country does this building belong to?",
+    "image": "oven_05016338.jpg",
+    "multiple_choices": {
+      "A": "Ukraine",
+      "B": "Germany",
+      "C": "Russia",
+      "D": "Poland"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00069493",
+    "entity": "Czocha Castle",
+    "question": "What country does this building belong to?",
+    "image": "oven_05015534.jpg",
+    "multiple_choices": {
+      "A": "Poland",
+      "B": "Czech Republic",
+      "C": "Slovakia",
+      "D": "Germany"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00069651",
+    "entity": "Confederation Bridge",
+    "question": "What is the height of this island in metre?",
+    "image": "oven_05018957.jpg",
+    "multiple_choices": {
+      "A": "50",
+      "B": "10",
+      "C": "20",
+      "D": "40"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00069877",
+    "entity": "Snowy owl",
+    "question": "What is the conservation status of this bird? (The status is assigned by the international union for conservation of nature. Choose one among Endangered,Least Concern,Critically Endangered,extinct species,extinct in the wild,Vulnerable,Near Threatened,Data Deficient)",
+    "image": "oven_05044636.jpg",
+    "multiple_choices": {
+      "A": "Data Deficient",
+      "B": "Vulnerable",
+      "C": "Critically Endangered",
+      "D": "Endangered"
+    },
+    "multiple_choices_answer": "B"
+  },
+  {
+    "id": "infoseek_val_00070049",
+    "entity": "Hoffmann's two-toed sloth",
+    "question": "where do you usually find this animal?",
+    "image": "oven_05041327.jpg",
+    "multiple_choices": {
+      "A": "Central America",
+      "B": "South America",
+      "C": "Ecuador",
+      "D": "North America"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00070827",
+    "entity": "Blackfriars Bridge",
+    "question": "Who designed this bridge?",
+    "image": "oven_05015070.jpg",
+    "multiple_choices": {
+      "A": "Joseph Bazalgette",
+      "B": "Isambard Kingdom Brunel",
+      "C": "Joseph cubitt",
+      "D": "Thomas Telford"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00071270",
+    "entity": "Meycauayan Church",
+    "question": "What is this building named after?",
+    "image": "oven_05024627.jpg",
+    "multiple_choices": {
+      "A": "Francis of assisi",
+      "B": "Mary of Assisi",
+      "C": "Saint Augustine",
+      "D": "Saint Francis Xavier"
+    },
+    "multiple_choices_answer": "A"
+  },
+  {
+    "id": "infoseek_val_00071907",
+    "entity": "Lotus Temple",
+    "question": "What country does this place belong to?",
+    "image": "oven_05011122.jpg",
+    "multiple_choices": {
+      "A": "Japan",
+      "B": "China",
+      "C": "India",
+      "D": "Thailand"
+    },
+    "multiple_choices_answer": "C"
+  },
+  {
+    "id": "infoseek_val_00073038",
+    "entity": "Nationals Park",
+    "question": "What is the architectural style of this park?",
+    "image": "oven_04944526.jpg",
+    "multiple_choices": {
+      "A": "Victorian Architecture",
+      "B": "Gothic Architecture",
+      "C": "Art Deco Architecture",
+      "D": "Modern architecture"
+    },
+    "multiple_choices_answer": "D"
+  },
+  {
+    "id": "infoseek_val_00073354",
+    "entity": "Cabo da Roca Lighthouse",
+    "question": "In which year did this building come into service?",
+    "image": "oven_05019970.jpg",
+    "multiple_choices": {
+      "A": "1760",
+      "B": "1785",
+      "C": "1772",
+      "D": "1790"
+    },
+    "multiple_choices_answer": "C"
+  }
+]
