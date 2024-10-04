@@ -1,9 +1,9 @@
 # VLM Knowledge Conflict
 
-![Static Badge](https://img.shields.io/badge/vision%20and%20language-blue)
-![Static Badge](https://img.shields.io/badge/knowledge%20conflict-blue)
+<!-- ![Static Badge](https://img.shields.io/badge/vision%20and%20language-blue)
+![Static Badge](https://img.shields.io/badge/knowledge%20conflict-blue) -->
 
-Code and data for paper [Unravelling Cross-Modality Knowledge Conflicts in Large Vision-Language Models]().
+Code and data for paper [Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models]().
 
 ![](figures/case.jpg)
 
