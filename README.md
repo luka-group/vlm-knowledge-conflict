@@ -3,15 +3,15 @@
 <!-- ![Static Badge](https://img.shields.io/badge/vision%20and%20language-blue)
 ![Static Badge](https://img.shields.io/badge/knowledge%20conflict-blue) -->
 
-Code and data for paper [Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models]().
+Code and data for paper [Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models](https://arxiv.org/abs/2410.03659).
 
 ![](figures/case.jpg)
 
 <p align="center">
     [<a href="https://darthzhu.github.io/cross-modality-knowledge-conflict/">Website</a>] •
-    [<a href="">Paper</a>] •
+    [<a href="https://arxiv.org/abs/2410.03659">Paper</a>] •
     [<a href="https://huggingface.co/datasets/DarthZhu/vlm-knowledge-conflict">Dataset</a>] •
-    [<a href="">Twitter</a>]
+    [<a href="https://x.com/_vztu/status/1843350510583374306">Twitter</a>]
 </p>
 
 ## Data Preview
@@ -103,15 +103,14 @@ python src/evaluate/evaluate_mc.py \
 
 ## Citation
 
-**TBA**
-
-<!-- If you find this repo useful, please cite the following paper:
+If you find this repo useful, please cite the following paper:
 
 ```bib
-@article{,
-    title={Unravelling Cross-Modality Knowledge Conflicts in Large Vision-Language Models},
-    author={},
-    journal={arXiv preprint},
-    year={2024}
+@article{zhu2024unraveling,
+  title={Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models},
+  author={Zhu, Tinghui and Liu, Qin and Wang, Fei and Tu, Zhengzhong and Chen, Muhao},
+  journal={arXiv preprint arXiv:2410.03659},
+  year={2024}
 }
-``` -->
+
+```
