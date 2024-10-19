@@ -32,6 +32,23 @@ Code and data for paper [Unraveling Cross-Modality Knowledge Conflicts in Large 
 }
 ```
 
+## Environment Setup
+
+By the time we release this code, vllm does not support all the VLMs used in our paper, and different transformers versions will cause conflicts in the environment.
+So, we provide two environments: 1) for the latest transformers lib, including all the popular VLMs, and 2) for models that are supported by vllms to accelerate the inference process.
+
+To install the base environment containing only the transformers lib, run the following code:
+
+```bash
+conda env create -f base.yml
+```
+
+To install the vllm environment, run the following code:
+
+```bash
+conda env create -f vllm.yml
+```
+
 ## Analysis
 
 To conduct the analyses in our paper, run codes in `src/analysis`.
